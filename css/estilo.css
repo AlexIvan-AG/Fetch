@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(202, 88, 88);
+}
+
+table thead{
+    background: black;
+    color: white;
+}
+table thead tr{
+    background-color: gray;
+    color: white;
+}
